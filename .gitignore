@@ -1,1 +1,4 @@
-*.BAK*acd *.acd.recovery *.sem *.wrk
+*.bak*acd
+*.acd.recovery
+*.sem
+*.wrk
